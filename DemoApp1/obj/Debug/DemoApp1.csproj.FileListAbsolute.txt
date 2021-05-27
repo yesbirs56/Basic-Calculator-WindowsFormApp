@@ -1,0 +1,10 @@
+C:\Users\Yesbirs\source\repos\WinformsApp\DemoApp1\DemoApp1\bin\Debug\DemoApp1.exe.config
+C:\Users\Yesbirs\source\repos\WinformsApp\DemoApp1\DemoApp1\bin\Debug\DemoApp1.exe
+C:\Users\Yesbirs\source\repos\WinformsApp\DemoApp1\DemoApp1\bin\Debug\DemoApp1.pdb
+C:\Users\Yesbirs\source\repos\WinformsApp\DemoApp1\DemoApp1\obj\Debug\DemoApp1.csproj.AssemblyReference.cache
+C:\Users\Yesbirs\source\repos\WinformsApp\DemoApp1\DemoApp1\obj\Debug\DemoApp1.Form1.resources
+C:\Users\Yesbirs\source\repos\WinformsApp\DemoApp1\DemoApp1\obj\Debug\DemoApp1.Properties.Resources.resources
+C:\Users\Yesbirs\source\repos\WinformsApp\DemoApp1\DemoApp1\obj\Debug\DemoApp1.csproj.GenerateResource.cache
+C:\Users\Yesbirs\source\repos\WinformsApp\DemoApp1\DemoApp1\obj\Debug\DemoApp1.csproj.CoreCompileInputs.cache
+C:\Users\Yesbirs\source\repos\WinformsApp\DemoApp1\DemoApp1\obj\Debug\DemoApp1.exe
+C:\Users\Yesbirs\source\repos\WinformsApp\DemoApp1\DemoApp1\obj\Debug\DemoApp1.pdb
